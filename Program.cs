@@ -30,8 +30,11 @@ namespace _241025_Szemazonosito
 
             Console.WriteLine();
 
-            if (szemazon[1] > szemazon2[1]) Console.WriteLine("Az első személyazonosító jel személye az idősebb.");
-            else Console.WriteLine("A második személyazonosító jel személye az idősebb.");
+            int szemazon_egy = szemazon[1];
+            int szemazon_ketto = szemazon2[1]
+            int x = String.Compare(szemazon[1], szemazon2[1]);
+            if (x > 0) Console.WriteLine("Az első személyazonosító jel személye a nagyobb.");
+            else if (x < 0) Console.WriteLine("A második személyazonosító jel személye a nagyobb.");
 
             Console.ReadKey();
         }
