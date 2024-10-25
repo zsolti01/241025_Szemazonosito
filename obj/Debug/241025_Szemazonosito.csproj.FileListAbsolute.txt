@@ -1,0 +1,7 @@
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\bin\Debug\241025_Szemazonosito.exe.config
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\bin\Debug\241025_Szemazonosito.exe
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\bin\Debug\241025_Szemazonosito.pdb
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\obj\Debug\241025_Szemazonosito.csproj.AssemblyReference.cache
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\obj\Debug\241025_Szemazonosito.csproj.CoreCompileInputs.cache
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\obj\Debug\241025_Szemazonosito.exe
+C:\Users\vecseizs\Gitwork\241025_Szemazonosito\obj\Debug\241025_Szemazonosito.pdb
